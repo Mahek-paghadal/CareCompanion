@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # care_companion_fixed
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CareCompanion
+>>>>>>> 472c45e158e6f151de03f762a05b038098089fa5

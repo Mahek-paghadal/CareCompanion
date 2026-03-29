@@ -1,0 +1,78 @@
+name: carecompanion
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  firebase_auth: ^5.5.1
+  firebase_core: ^3.12.1
+  pinput: ^5.0.1
+  get: ^4.6.6
+  intl: ^0.20.2
+  pin_code_fields: ^8.0.1
+  cloud_firestore: ^5.6.5
+  flutter_lints: ^5.0.0
+  carousel_slider : ^4.2.1
+  local_notifier: ^0.1.6
+  speech_to_text: ^7.0.0
+  flutter_tts: ^3.8.5
+  awesome_notifications: ^0.10.1
+  url_launcher: ^6.1.14
+  android_intent_plus: ^5.3.0
+  permission_handler: ^11.0.1
+  shared_preferences: ^2.2.2
+  flip_card: ^0.7.0
+  firebase_database: ^11.3.5
+  another_telephony: ^0.4.1
+  yandex_geocoder: ^2.3.1
+  location: ^8.0.0
+  flutter_local_notifications: ^19.1.0
+  geolocator: ^14.0.0
+  flutter_map: ^8.1.1
+  http: ^1.3.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.3
+
+#dependency_overrides:
+#  flutter_sms:
+#    git:
+#      url: https://github.com/babariviere/flutter_sms.git
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/Logo.jpg"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Logo.jpg
+    - assets/elder people.png
+    - assets/welcome_page.png
+    - assets/medicine.png
+    - assets/to-do_list.png
+    - assets/mind_games.png
+    - assets/news.png
+    - assets/family_connect.png
+    - assets/doctor_appointment.png
+    - assets/memory_match.png
+    - assets/number_puzzle.png
+    - assets/relaxing_painting.png
+    - assets/word_search.png
+    - assets/story_puzzle.png
+    - assets/mystery_box.png
+    - assets/chatbot.png
